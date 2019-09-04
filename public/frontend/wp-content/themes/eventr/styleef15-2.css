@@ -1,0 +1,138 @@
+  
+  
+
+
+.owl-theme .owl-controls .owl-page span {
+	background:#7099bf;
+}
+
+
+.navbar-custom .navbar-nav > li > a:hover,
+.navbar-custom-blog .navbar-nav > li > a:hover {
+	color:#ed9a1e;
+}
+
+.navbar-custom .navbar-nav > li > a:active,
+.navbar-custom .navbar-nav > li > a:focus,
+.navbar-custom-blog .navbar-nav > li > a:active,
+.navbar-custom-blog .navbar-nav > li > a:focus, {
+	color:#7099bf;
+}
+
+.navbar-custom .icon-bar,
+.navbar-custom-blog .icon-bar {
+	background:#7099bf;
+}
+
+
+
+
+.is-sticky .navbar-custom {
+	background:#262626;
+}
+
+
+.sticky-wrapper a,
+.is-sticky a {
+	color:#ffffff;
+}
+
+.sticky-wrapper a:hover,
+.is-sticky a:hover {
+	color:#ed9a1e;
+}
+
+
+#highlight .right {
+	background:#7099bf;
+}
+
+
+#info i {
+	color:#7099bf;
+}
+
+.speaker-thumb h4:after {
+ 	background-color: #7099bf;
+}
+
+.speaker-thumb .company {
+	font-family:;
+}
+
+#program {
+	background:#7099bf;
+}
+
+
+#download h3:after {
+ 	background-color: #7099bf;
+}
+
+
+#venue h2:after {
+ 	background-color: #7099bf;
+}
+
+
+#hotels h3:after {
+ 	background-color: #7099bf;
+}
+
+#venue i {
+	color:#7099bf;
+}
+
+#hotels h3:after {
+ 	background-color: #7099bf;
+}
+
+
+.price-table {
+	background:#7099bf;
+}
+
+
+#testimonial {
+	background:#7099bf;
+}
+
+.sponsor {
+	border:2px solid #7099bf;
+}
+
+#sponsors i {
+	color:#7099bf;
+}
+
+#footer h4:after {
+ 	background-color: #7099bf;
+}
+
+#preload {
+	background:#7099bf;
+}
+
+
+
+.owl-theme .owl-controls .owl-buttons div {
+	color: #7099bf;
+}
+
+.owl-theme .owl-controls .owl-page span {
+	background:#7099bf;
+}
+
+
+
+
+
+.wrap .overlay:after {
+	background: none repeat scroll 0 0 rgba(112,153, 191, 0.7);
+}
+	
+
+.wrap .overlay:before {
+	background: none repeat scroll 0 0 rgba(112,153, 191, 0.7);
+}
+
